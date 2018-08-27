@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.br.controlecondominio">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activitys.ListaMoradorActivity" />
+        <activity android:name=".activitys.FormMoradorActivity" />
+        <activity
+            android:name=".activitys.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activitys.ListaPrestadorActivity" />
+        <activity android:name=".activitys.FormPrestadorActivity" />
+        <activity android:name=".activitys.FormReceitaActivity" />
+        <activity android:name=".activitys.ListaReceitaActivity" />
+        <activity android:name=".activitys.FormTotalizadorActivity" />
+        <activity android:name=".activitys.ListaDespesaActivity" />
+        <activity android:name=".activitys.FormDespesaActivity"></activity>
+    </application>
+
+</manifest>

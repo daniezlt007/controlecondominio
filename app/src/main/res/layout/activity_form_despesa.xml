@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context=".activitys.FormDespesaActivity">
+
+    <EditText
+        android:id="@+id/form_txtDescDespesa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="75dp"
+        android:background="@drawable/inputs"
+        android:ems="10"
+        android:hint="DESCRIÇÃO"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/form_txtDataPagamento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="125dp"
+        android:background="@drawable/inputs"
+        android:ems="10"
+        android:hint="DATA PAGAMENTO"
+        android:inputType="date"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/form_txtValor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="175dp"
+        android:background="@drawable/inputs"
+        android:ems="10"
+        android:hint="VALOR R$"
+        android:inputType="numberDecimal"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/form_txtPrestador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="225dp"
+        android:background="@drawable/inputs"
+        android:ems="10"
+        android:hint="PRESTADOR"
+        android:inputType="textPersonName"
+        android:textAlignment="center" />
+
+</RelativeLayout>

@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/78aeee7e8b9dbdedd2d5b3e44369fd5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/504fabcb0415063f0bdfcb696a77513a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c97c89e79e9f115082da9ce475cdf35b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.wdullaer:materialdatetimepicker:3.6.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.3.aar/e38625dd0c2c4a4e8d603a7c4240a685/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f487f45354e5f949cd0df1d57a7de1cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cd4a156821a3e063613155bd4dcff457/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f0b13111138d3da2efce39d9f145ef0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/42e9fa350f23e60ad56f2f6c374d707c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4163f2f95937efaa3963456daebc79bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c2534b027244e09d28c892cdf1f0e09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e5d723fcaee8400ee6d47e3d2fdfc3ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4420bc21b7af8952abada61ff2a70d5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/94ae2e681ae42cf95c51bb7fbc0d06dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/abdf052575aaea933d213bf52a15a052/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d08bb1d8b1cf10376f09c233f238571/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/958dd96d4f4d31be7007a5bd0fff9eaa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66114c88cc38f3f478220a2be564428f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a55832e43d93ff438c7fe4b21cda999/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c97c89e79e9f115082da9ce475cdf35b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c97c89e79e9f115082da9ce475cdf35b/AndroidManifest.xml:9:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.6.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.3.aar/e38625dd0c2c4a4e8d603a7c4240a685/AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.6.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.3.aar/e38625dd0c2c4a4e8d603a7c4240a685/AndroidManifest.xml:28:5-20
+	android:supportsRtl
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.br.controlecondominio.activitys.ListaMoradorActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:12:19-65
+activity#com.br.controlecondominio.activitys.FormMoradorActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:13:9-67
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:13:19-64
+activity#com.br.controlecondominio.activitys.MainActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:theme
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:15:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.br.controlecondominio.activitys.ListaPrestadorActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:22:9-70
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:22:19-67
+activity#com.br.controlecondominio.activitys.FormPrestadorActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:23:19-66
+activity#com.br.controlecondominio.activitys.FormReceitaActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:24:9-67
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:24:19-64
+activity#com.br.controlecondominio.activitys.ListaReceitaActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:25:9-68
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:25:19-65
+activity#com.br.controlecondominio.activitys.FormTotalizadorActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:26:9-71
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:26:19-68
+activity#com.br.controlecondominio.activitys.ListaDespesaActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:27:9-68
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:27:19-65
+activity#com.br.controlecondominio.activitys.FormDespesaActivity
+ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:28:9-76
+	android:name
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml:28:19-64
+uses-sdk
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/78aeee7e8b9dbdedd2d5b3e44369fd5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/78aeee7e8b9dbdedd2d5b3e44369fd5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/504fabcb0415063f0bdfcb696a77513a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/504fabcb0415063f0bdfcb696a77513a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c97c89e79e9f115082da9ce475cdf35b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c97c89e79e9f115082da9ce475cdf35b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.6.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.3.aar/e38625dd0c2c4a4e8d603a7c4240a685/AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.6.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.3.aar/e38625dd0c2c4a4e8d603a7c4240a685/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f487f45354e5f949cd0df1d57a7de1cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f487f45354e5f949cd0df1d57a7de1cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cd4a156821a3e063613155bd4dcff457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cd4a156821a3e063613155bd4dcff457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f0b13111138d3da2efce39d9f145ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9f0b13111138d3da2efce39d9f145ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/42e9fa350f23e60ad56f2f6c374d707c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/42e9fa350f23e60ad56f2f6c374d707c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4163f2f95937efaa3963456daebc79bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4163f2f95937efaa3963456daebc79bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c2534b027244e09d28c892cdf1f0e09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c2534b027244e09d28c892cdf1f0e09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e5d723fcaee8400ee6d47e3d2fdfc3ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e5d723fcaee8400ee6d47e3d2fdfc3ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4420bc21b7af8952abada61ff2a70d5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4420bc21b7af8952abada61ff2a70d5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/94ae2e681ae42cf95c51bb7fbc0d06dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/94ae2e681ae42cf95c51bb7fbc0d06dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/abdf052575aaea933d213bf52a15a052/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/abdf052575aaea933d213bf52a15a052/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d08bb1d8b1cf10376f09c233f238571/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d08bb1d8b1cf10376f09c233f238571/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/958dd96d4f4d31be7007a5bd0fff9eaa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/958dd96d4f4d31be7007a5bd0fff9eaa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66114c88cc38f3f478220a2be564428f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66114c88cc38f3f478220a2be564428f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a55832e43d93ff438c7fe4b21cda999/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a55832e43d93ff438c7fe4b21cda999/AndroidManifest.xml:20:5-44
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/AndroidStudioProjects/ControleCondominio/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:3.6.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.3.aar/e38625dd0c2c4a4e8d603a7c4240a685/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:3.6.3] /home/daniel/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.3.aar/e38625dd0c2c4a4e8d603a7c4240a685/AndroidManifest.xml:26:22-63

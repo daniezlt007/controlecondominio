@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Controle Condomínio</string>
+    <string name="receita">Receita</string>
+    <string name="despesa">Despesa</string>
+    <string name="morador">Morador</string>
+    <string name="prestador">Prestador</string>
+</resources>

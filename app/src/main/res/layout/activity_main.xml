@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activitys.MainActivity"
+    tools:layout_editor_absoluteY="25dp">
+
+    <ImageView
+        android:id="@+id/img_morador"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/img_prestador"
+        android:layout_marginStart="60dp"
+        app:srcCompat="@drawable/morador" />
+
+    <ImageView
+        android:id="@+id/img_prestador"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="60dp"
+        android:layout_marginTop="203dp"
+        app:srcCompat="@drawable/prestador" />
+
+    <ImageView
+        android:id="@+id/img_receita"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/img_morador"
+        android:layout_below="@+id/img_morador"
+        app:srcCompat="@drawable/receita_128" />
+
+    <ImageView
+        android:id="@+id/img_despesa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/img_prestador"
+        android:layout_alignTop="@+id/img_receita"
+        app:srcCompat="@drawable/despesa_128" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/img_morador"
+        android:layout_alignStart="@+id/textView3"
+        android:text="@string/morador"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/img_morador"
+        android:layout_alignStart="@+id/textView4"
+        android:text="@string/prestador"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/img_receita"
+        android:layout_marginStart="92dp"
+        android:text="@string/receita"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/img_receita"
+        android:layout_marginEnd="89dp"
+        android:text="@string/despesa"
+        android:textSize="18sp" />
+
+</RelativeLayout>
